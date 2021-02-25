@@ -1,3 +1,3 @@
-﻿msgbox "msgbox: Hello World"
-print "print: Hello World"
+﻿msgbox SECOND(NOW())
+print SECOND(NOW())
 wait 3
